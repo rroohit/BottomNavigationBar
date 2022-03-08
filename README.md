@@ -5,5 +5,5 @@ Using Jetpack Compose.
 Screenshots
 -----------------
 <p align="center">
-<img src="/images/img_1.jpg" width="32%"/>
+<img src="/images/Img_1.jpg" width="32%"/>
 </p>
