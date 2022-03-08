@@ -4,7 +4,7 @@ Using Jetpack Compose.
 
 Screenshots
 -----------------
-<p align="center">
+<p>
 <img src="/images/Img_1.jpg" width="32%"/>
 </p>
 
